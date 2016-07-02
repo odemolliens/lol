@@ -1,0 +1,19 @@
+{
+	"api_url": "127.0.0.1:8085",
+	"website_url": "www.digitaleads.nl",
+
+	"available": {
+		"adalso": true,
+		"adverti": false
+	},
+
+	"prioriteit": [
+		{"ad": "adalso"},
+		{"ad": "adverti"}
+	],
+
+	"time_reloads": [
+		{"ibit": "60000"},
+		{"bitfinex": "60000"}
+	]
+}
